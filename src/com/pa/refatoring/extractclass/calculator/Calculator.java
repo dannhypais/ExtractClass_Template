@@ -1,4 +1,4 @@
-package com.pa.refatoring.extractclass;
+package com.pa.refatoring.extractclass.calculator;
 
 import javafx.scene.control.Alert;
 
