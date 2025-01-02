@@ -11,7 +11,7 @@ public class Employee {
         this.payroll = new Payroll(salary, bankAccount);
     }
 
-    public void updateAddress(String newAddress) {
+    public void setAddress(String newAddress) {
         this.address = newAddress;
     }
 
